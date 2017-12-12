@@ -14,7 +14,7 @@ function startup()
         file.close("init.lua")
         -- the actual application is stored in 'application.lua'
         -- dofile("application.lua")
-        dofile("resetbutton1.lua")
+        dofile("resetbutton.lua")
         dofile("http.lua")
     end
 end
@@ -111,7 +111,6 @@ else
     wifi.setmode(wifi.STATION)
     wifi.sta.config({ssid=APNAME, pwd=APPASS})
 end
---SSID = "99"
---PASSWORD = "555666777"
 
--- wifi.sta.connect() not necessary because config() uses auto-connect=true by defau
+
+
