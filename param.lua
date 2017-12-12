@@ -1,7 +1,0 @@
-APNAME="99"
-APPASS="555666777"
-APTYPE="Station"
-APIP="192.168.5.1"
-brip="192.168.1.202"
-brlogin="smok"
-brpass="delphi"
