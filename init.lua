@@ -2,7 +2,7 @@
 dofile("param.lua") 
 
 if APTYPE == nil then APTYPE = "AP" end
-if APNAME == nil then APNAME = "BelSmart" end
+if APNAME == nil then APNAME = "GS-IoT" end
 if APPASS == nil then APPASS = "12345" end
 if APIP   == nil then APIP   = "192.168.5.55" end
 

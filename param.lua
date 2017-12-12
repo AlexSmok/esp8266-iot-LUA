@@ -1,0 +1,7 @@
+APNAME="--"
+APPASS="---------"
+APTYPE="Station"
+APIP="192.168._._"
+brip="192.168.1.___"
+brlogin="admin"
+brpass="adminpass"
